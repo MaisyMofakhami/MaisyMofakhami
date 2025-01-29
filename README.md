@@ -7,5 +7,5 @@ When I’m not diving into data, you’ll find me at the gym, spending time with
 
 ## 🎯 My Expertise
 - **Data Science:** Machine Learning, Data Analysis and visualization, NLP, Optimization, Statistics
-- **E-commerce:** Growth Strategy, Category Management, Assortment Planning, Conversion Rate Optimization
-- **Programming:** Python, R and SQL
+- **E-commerce:** Growth Strategy, Category Management, Assortment Planning, Conversion Rate Optimization, Customer Behavior Analysis
+- **Technical Skills:** Python, R, SQL, Power-BI, Metabase
