@@ -9,3 +9,8 @@ When I’m not diving into data, you’ll find me at the gym, spending time with
 - **Data Science:** Machine Learning, Data Analysis and visualization, NLP, Optimization, Statistics
 - **E-commerce:** Growth Strategy, Category Management, Assortment Planning, Conversion Rate Optimization, Customer Behavior Analysis
 - **Technical Skills:** Python, R, SQL, Power-BI, Metabase
+
+- Machine Learning and Data Science: ANN, Deep Learning, NLP, Transformers(BERT), Regression, Random Forest, Gradient Boosting, Clustering (K-Means, DBSCAN)
+- **Analytics Tools & Software**: SQL, Python, R, Power BI, Metabase, Microsoft tools: Excel/Word/PowerPoint,    
+•	**Python Libraries**: Pandas, NumPy, scikit-learn, PyTorch, XGBoost, NLTK, Gurobi, Statsmodels, Matplotlib, Seaborn
+
