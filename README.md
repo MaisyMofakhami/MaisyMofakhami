@@ -1,7 +1,9 @@
 # Hi, I'm Maisy 👋
 
 ## 🌱 About Me
-I’ve always enjoyed exploring both the outside world and diving into my inner thoughts. For me, finding the perfect state of flow is like a never-ending treasure hunt. I usually find myself in that sweet spot when I'm tackling a complex, multi-layered problem. That's why I love working with data; Unraveling patterns, uncovering insights, and solving challenges keep me engaged and energized.
+I’ve always enjoyed exploring both the outside world and diving into my inner thoughts. For me, finding the perfect state of flow is like a never-ending treasure hunt. I usually find myself in that sweet spot when I'm tackling a complex, multi-layered problem. That's why I love working with data; Unraveling patterns, uncovering insights, and solving challenges keep me engaged and energized. 
+
+Over time, I’ve also grown into a product enthusiast, driven by a desire to make a tangible impact through thoughtful, customer-centric solutions. I find real fulfillment in translating complex data into intuitive decisions that directly improve how users interact with a product.
 
 When I’m not diving into data, you’ll find me at the gym, spending time with friends, or unwinding with podcasts, movies, and series. I also love solving puzzles and practicing music—it’s all part of staying curious and creative! 🎵💪🎬💡
 
